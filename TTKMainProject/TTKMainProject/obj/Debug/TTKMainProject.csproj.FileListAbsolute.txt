@@ -1,0 +1,14 @@
+G:\Billy\TTKMainProject\TTKMainProject\bin\Debug\TTKMainProject.exe.config
+G:\Billy\TTKMainProject\TTKMainProject\bin\Debug\TTKMainProject.exe
+G:\Billy\TTKMainProject\TTKMainProject\bin\Debug\TTKMainProject.pdb
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.csprojAssemblyReference.cache
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.Form1.resources
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.Properties.Resources.resources
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.TimerForm.resources
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.csproj.GenerateResource.cache
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.csproj.CoreCompileInputs.cache
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.exe
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.pdb
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.stupidBilly.resources
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.Dice.resources
+G:\Billy\TTKMainProject\TTKMainProject\obj\Debug\TTKMainProject.ActualTImer.resources
